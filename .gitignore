@@ -4,5 +4,10 @@
 *.tfstate.backup
 .terraform.lock.hcl
 
+# AWS / Sensitive
+devop-key.pem
+awscliv2.zip
+aws
+
 # OS
 .DS_Store
