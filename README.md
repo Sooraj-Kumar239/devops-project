@@ -83,12 +83,7 @@ This removes the need to manually SSH into the server and install dependencies.
 ---
 ## 3️ Application Containerization (Docker)
 The web application is containerized using Docker to ensure portability and consistency.
-### Usage of Docker?
 
-- Ensures same environment everywhere
-- Isolates application dependencies
-- Simplifies deployment
-- Makes scaling easier
 
 ### Docker Commands Used:
 
